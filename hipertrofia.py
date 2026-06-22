@@ -2,7 +2,7 @@ def hipertrofia(sexo, TMBm, TMBf, SUPERm, SUPERf, nome):
 	print ("E-X-E-L-E-N-T-E, vamos começar a brincadeira!!")
 	print ("       █  █ █ █▀█ █▀▀ █▀█ ▀█▀ █▀█ █▀█ █▀▀ █ █▀█         ")
 	print ("   约翰-█▀▀█ █ █▀▀ █▀▀ █▀▄  █  █▀▄ █ █ █▀▀ █ █▀█​-佩克索托")
-	print ("      ▀  ▀ ▀ ▀   ▀▀▀ ▀ ▀  ▀  ▀ ▀ ▀▀▀ ▀   ▀ ▀ ▀         ")
+	print ("       ▀  ▀ ▀ ▀   ▀▀▀ ▀ ▀  ▀  ▀ ▀ ▀▀▀ ▀   ▀ ▀ ▀         ")
 #	print (linha)
 	print ("Já se perguntou o porque no decorrer de determinado tempo de treino o musculo cresce?")
 	print ("Se vc esta aqui ja deve conhecer o termo, mas para que nao sabe, hipertrofia é nada mais do que os estimulos nessesarios  para o crescimento de musculos")
