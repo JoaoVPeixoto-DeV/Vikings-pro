@@ -1,5 +1,5 @@
 # Vikings-pro
-Sistema de consultoria esportiva desenvolvido em Python.
+Sistema de consultoria esportiva em desenvolvimento utilizando Python.
 Vikings Pro
 
 O Vikings é um sistema em Python voltado para acompanhamento de treinos, nutrição e evolução física.
